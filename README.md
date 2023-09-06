@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**sainyanhtay/sainyanhtay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sainyanhtay/sainyanhtay.github.io** is a ✨ _special_ ✨ repository for github.io website.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
